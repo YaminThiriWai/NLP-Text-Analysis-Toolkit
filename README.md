@@ -11,7 +11,7 @@ This repository contains Python code for text analysis using Natural Language Pr
 
 ## Usage
 
-To use the code in this repository, follow these steps:
+To use the code in this repository, follow these:
 
 Clone the repository to your local machine.
    ```bash
